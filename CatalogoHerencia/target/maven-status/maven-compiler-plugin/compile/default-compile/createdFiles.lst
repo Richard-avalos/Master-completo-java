@@ -1,0 +1,10 @@
+org\aguzman\poointerface\dominio\Comics.class
+org\aguzman\poointerface\dominio\Libro.class
+org\aguzman\poointerface\Main.class
+org\aguzman\poointerface\dominio\ILibro.class
+org\aguzman\poointerface\dominio\Electronico.class
+org\aguzman\poointerface\dominio\IPhone.class
+org\aguzman\poointerface\dominio\IProducto.class
+org\aguzman\poointerface\dominio\Producto.class
+org\aguzman\poointerface\dominio\IElectronico.class
+org\aguzman\poointerface\dominio\TvLcd.class
